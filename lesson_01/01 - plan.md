@@ -1,16 +1,12 @@
-# Python Intro 03
+# part I
 
-# Lesson 1
-
-## part I
-
-### no important part and maybe skip or spend no a lot of time
+## no important part and maybe skip or spend no a lot of time
 - Язык программирования
 - Что такое язык программирования
 - Какие бывают языки программирования
 - Краткое описание языка программирования Python
 ---
-### important part
+## important part
 - Инсталляция Python
 - Где скачать интерпретатор [Python](https://www.python.org/downloads)
 - Установка Python 3.x
@@ -30,7 +26,7 @@
 - Добавление Python файла в проект
 - Запуск созданной программы на исполнение
 
-## part II
+# part II
 
 - Работа с GIT
 - Установка
@@ -46,5 +42,3 @@
 - Форматирование выводимой информации
 - ESCAPE - последовательности
 - Литералы
-
----
